@@ -25,12 +25,6 @@ A simple Weather Forecasting web app made using React, HTML5, CSS3, and JavaScri
 - JavaScript  
 - OpenWeatherMap API (or any other weather API)  
 
-## Author
-
-Your Name  
-GitHub: https://github.com/your-username  
-
-
 - [ ] Dark/Light Mode
 
 <br/>
